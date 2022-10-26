@@ -42,7 +42,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :zap: Open to work   
 - :mailbox: My mail: vadim45378@gmail.com
     
----
     
 ### :hammer_and_wrench: Languages and Tools :
     
