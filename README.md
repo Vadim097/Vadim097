@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/shurlaevvadim">
