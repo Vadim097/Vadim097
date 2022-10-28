@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="150"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shurlaevvadim/">
     <img height="24" width="24" src="https://img.shields.io/badge/in-black?style=flat&logo=&logoColor=white"/>
