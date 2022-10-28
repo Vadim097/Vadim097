@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     
 ---
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Data Scientist.
 - :telescope: Student of Yandex Practivum.
 - :zap: Open to work   
 - :mailbox: My mail: vadim45378@gmail.com
